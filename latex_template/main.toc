@@ -1,0 +1,18 @@
+\contentsline {section}{\numberline {1}一、问题重述}{2}{}%
+\contentsline {section}{\numberline {2}二、模型假设}{2}{}%
+\contentsline {section}{\numberline {3}三、符号说明}{3}{}%
+\contentsline {section}{\numberline {4}四、模型的建立与求解}{3}{}%
+\contentsline {subsection}{\numberline {4.1}热传导模型的建立}{3}{}%
+\contentsline {subsubsection}{\numberline {4.1.1}模型的建立}{3}{}%
+\contentsline {subsubsection}{\numberline {4.1.2}模型的求解}{4}{}%
+\contentsline {subsection}{\numberline {4.2}最优化烤盘设计}{5}{}%
+\contentsline {subsubsection}{\numberline {4.2.1}烤盘面积剩余率$\eta $}{5}{}%
+\contentsline {subsubsection}{\numberline {4.2.2}烤盘温度差异程度$\sigma $}{5}{}%
+\contentsline {subsubsection}{\numberline {4.2.3}目标函数的最优化问题}{6}{}%
+\contentsline {paragraph}{测试1}{6}{}%
+\contentsline {paragraph}{测试2}{6}{}%
+\contentsline {paragraph}{测试3}{6}{}%
+\contentsline {section}{\numberline {5}五、模型的分析与检验}{7}{}%
+\contentsline {section}{\numberline {6}六、模型的评价、改进与推广}{7}{}%
+\contentsline {subsection}{\numberline {6.1}模型的优点}{7}{}%
+\contentsline {subsection}{\numberline {6.2}模型的改进}{7}{}%
